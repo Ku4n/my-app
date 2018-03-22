@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="702b8edb-a790-45ad-802f-c2461247b70a" name="devding" url="http://devding.sport147.cn">
+        <fileTransfer host="devding.sport147.cn" port="22" privateKey="C:\Users\os\.ssh\CCBS\id_rsa" rootFolder="/home/ding/Ding" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
